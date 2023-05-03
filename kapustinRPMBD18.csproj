@@ -88,8 +88,14 @@
     <Compile Include="QuerriesWin.xaml.cs">
       <DependentUpon>QuerriesWin.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ShowWin.xaml.cs">
+      <DependentUpon>ShowWin.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UpdateQuerry.xaml.cs">
       <DependentUpon>UpdateQuerry.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
     <Page Include="AddWin.xaml">
       <SubType>Designer</SubType>
@@ -124,6 +130,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="QuerriesWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowWin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -10,6 +10,6 @@
         public static int? _workersCount;
         public static int? _aCount;
         public static int? _bCount;
-        public static int? _cCount;
+        public static int? _cCount;        
     }
 }

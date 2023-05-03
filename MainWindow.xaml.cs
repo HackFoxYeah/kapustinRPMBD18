@@ -65,5 +65,27 @@ namespace kapustinRPMBD18
             var qw = new QuerriesWin();
             qw.ShowDialog();
         }
+
+        private void ViewButton_Click(object sender, RoutedEventArgs e)
+        {
+            int indexRow = DataGrid.SelectedIndex;
+            if (indexRow != -1)
+            {
+                MasterPieceAccounting row = (MasterPieceAccounting)DataGrid.Items[indexRow];
+                DBSupClass._firstName = row.FirstName;
+                DBSupClass._secondName = row.SecondName;
+                DBSupClass._thirdName = row.ThirdName;
+                DBSupClass._workshopName = row.WorkshopName;
+                DBSupClass._workshopBossName = row.WorkshopBossName;
+                DBSupClass._workersCount = row.WorkersCount;
+                DBSupClass._aCount = row.ACount;
+                DBSupClass._bCount = row.BCount;
+                DBSupClass._cCount = row.CCount;
+                ShowWin sw = new ShowWin();
+                sw.ShowDialog();
+                DataGrid.Items.Refresh();
+                DataGrid.Focus();
+            }
+        }
     }
 }
