@@ -16,7 +16,15 @@
     <Property Name="BCount" Type="int" />
     <Property Name="CCount" Type="int" />
   </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Login" />
+    </Key>
+    <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
   <EntityContainer Name="Хранилище WorkshopResultsModelContainer">
     <EntitySet Name="MasterPieceAccounting" EntityType="Self.MasterPieceAccounting" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
   </EntityContainer>
 </Schema>

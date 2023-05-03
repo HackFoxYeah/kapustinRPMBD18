@@ -96,3 +96,48 @@ C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18 (НГ)\obj\Debug\kapustinRPMBD18
 C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18 (НГ)\obj\Debug\kapustinRPMBD18.csproj.GenerateResource.cache
 C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18 (НГ)\obj\Debug\kapustinRPMBD18.csproj.CoreCompileInputs.cache
 C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18 (НГ)\obj\Debug\kapustinRPMBD18.csproj.CopyComplete
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.csproj.AssemblyReference.cache
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\AddWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\DeleteQuerry.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\EditWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\QuerriesWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\UpdateQuerry.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\verification.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\App.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18_Content.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18_MarkupCompile.cache
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18_MarkupCompile.lref
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.exe
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.pdb
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\kapustinRPMBD18.exe.config
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\kapustinRPMBD18.exe
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\kapustinRPMBD18.pdb
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\EntityFramework.dll
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\EntityFramework.xml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\AddWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\DeleteQuerry.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\EditWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\MainWindow.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\QuerriesWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\UpdateQuerry.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\verification.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.g.resources
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.Properties.Resources.resources
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.csproj.GenerateResource.cache
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.csproj.CoreCompileInputs.cache
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\kapustinRPMBD18.csproj.CopyComplete
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\ShowWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD19 (НГ)\obj\Debug\ShowWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\DeleteQuerry.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\QuerriesWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\ShowWin.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\UpdateQuerry.g.cs
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\DeleteQuerry.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\QuerriesWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\ShowWin.baml
+C:\Users\исп-31.RSSK\Desktop\kapustinRPMBD18\obj\Debug\UpdateQuerry.baml
