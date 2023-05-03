@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:kapustinRPMBD18"
         mc:Ignorable="d"
         Title="EditWin" Height="700" Width="450"
-        Loaded="Window_Loaded">
+        Loaded="Window_Loaded"  ResizeMode="NoResize">
     <Grid Margin="0,35,0,-138">
         <TextBox x:Name="FirstNameTB" Height="25" Width="150" Margin="0,0,0,700"/>
         <TextBox x:Name="SecondNameTB" Height="25" Width="150" Margin="0,0,0,600"/>

@@ -21,8 +21,16 @@
           <Property Name="BCount" Type="int" />
           <Property Name="CCount" Type="int" />
         </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="Login" />
+          </Key>
+          <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
         <EntityContainer Name="Хранилище WorkshopResultsModelContainer">
           <EntitySet Name="MasterPieceAccounting" EntityType="Self.MasterPieceAccounting" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema>
     </edmx:StorageModels>
@@ -45,8 +53,16 @@
           <Property Name="BCount" Type="Int32" />
           <Property Name="CCount" Type="Int32" />
         </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Login" />
+          </Key>
+          <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
         <EntityContainer Name="Entity" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="MasterPieceAccountings" EntityType="Self.MasterPieceAccounting" />
+          <EntitySet Name="Users" EntityType="Self.User" />
         </EntityContainer>
       </Schema>
     </edmx:ConceptualModels>
@@ -66,6 +82,14 @@
                 <ScalarProperty Name="ACount" ColumnName="ACount" />
                 <ScalarProperty Name="BCount" ColumnName="BCount" />
                 <ScalarProperty Name="CCount" ColumnName="CCount" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="WorkshopResultsModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
